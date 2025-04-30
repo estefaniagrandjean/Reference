@@ -1,5 +1,5 @@
 # Reference
-Reference links to portals I have previously worked on.
+This is the type of portals I developed as a Style specialist at Avature.
 
 https://bravura.avature.net/en_US/careers/
 
